@@ -1,0 +1,11 @@
+{
+  "name": "merge-sort-obj",
+  "version": "0.0.0",
+  "description": "merge sort with supports of js objects",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {}
+}
+

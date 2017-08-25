@@ -1,0 +1,14 @@
+{
+  "name": "merge-sort-obj",
+  "version": "0.0.1",
+  "description": "merge sort with supports of js objects",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": "https://github.com/kktam/merge-sort-obj",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.21.x"
+  }
+}
+
